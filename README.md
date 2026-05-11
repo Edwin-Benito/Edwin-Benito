@@ -6,7 +6,7 @@
 - 🌱 **Actualmente aprendiendo:** desarrollo full stack, seguridad en aplicaciones e integración de soluciones IoT.
 - 👀 **Intereses:** desarrollo web y móvil, bases de datos, ciberseguridad y automatización.
 - 💼 **Colaboración:** proyectos de software con impacto real en educación, productividad y comunicación segura.
-- 📫 **Contacto:** edwinben@micorreo.upp.edu.mx
+- 📫 **Contacto:** benitocas11@icloud.com
 
 ## 🎓 Educación
 - **Ingeniería en Tecnologías de la Información e Innovación Digital** (2024 - Actualidad)  
